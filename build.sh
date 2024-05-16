@@ -18,3 +18,5 @@ mv dist/__init__.exe exe/tidal-dl.exe
 pip uninstall -y tidal-dl
 
 cd ..
+tidal-dl
+
